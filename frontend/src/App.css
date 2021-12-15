@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #ffff;
+  color: #1d2129;
+}
+
+.Navbar{
+  color:#ffff;
+  padding: 10px;
+  background: #303f9f;
+}
+
+.logined{
+  float : right;
+}
+
+
